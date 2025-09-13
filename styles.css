@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.hero {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center
+	
+}
+
+.image {
+	width:400px;
+	heigth: 200px;
+	object-fit: cover;
+}
+
+.explore-now {
+	background-color: red;
+	padding: 10px 15px;
+	color: white;
+	border-radius: 10px
+}
